@@ -9,7 +9,7 @@ Located in India and known as Vanxh, I am a coding enthusiast and developer who 
 * 🌍  I'm based in India 
 * 🖥️  See my portfolio at [vanxh.dev](http://vanxh.dev) 
 * ✉️  You can contact me at [support@vanxh.dev](mailto:support@vanxh.dev) 
-* 🚀  I'm currently working on [Fishstick Bot](http://fishstickbot.com) 
+* 🚀  I'm currently working on [Bitpack.me](http://bitpack.me) 
 * 🧠  I'm learning new frameworks 
 * 🤝  I'm open to collaborating on interesting projects
 
