@@ -13,7 +13,7 @@ Located in India and known as Vanxh, I am a coding enthusiast and developer who 
 * 🧠  I'm learning new frameworks 
 * 🤝  I'm open to collaborating on interesting projects
 
-<a href="https://www.twitter.com/vanxhh" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/vanxhh?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.github.com/vanxhbitpack" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/vanxh?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.twitter.com/vanxhh" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/vanxhh?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.github.com/vanxhbitpack" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/vanxhbitpack?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
